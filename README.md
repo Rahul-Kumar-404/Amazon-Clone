@@ -71,7 +71,7 @@ Not applicable, as this is a static website.
 
 👤 Author
 ================
-The Static Masterpiece project was created by **[Your Name]** 🙋‍♂️.
+The Static Masterpiece project was created by **Rahul Kumar** 🙋‍♂️.
 
 📝 License
 ================
