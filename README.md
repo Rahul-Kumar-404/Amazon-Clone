@@ -1,4 +1,4 @@
-🚀 Amazon Clone
+<img width="1894" height="905" alt="Screenshot 2025-11-22 134535" src="https://github.com/user-attachments/assets/6b6ecc5a-65ef-40d4-b04b-6fe33f6d9da3" />🚀 Amazon Clone
 ==========================
 ### **Static Masterpiece** 🌐
 #### "Empowering Your Online Presence with Simplicity and Elegance" 💻
@@ -61,9 +61,8 @@ To test the project, follow these steps:
 
 📸 Screenshots
 ================
-[Image 1: Desktop View](https://via.placeholder.com/800x600)
-[Image 2: Mobile View](https://via.placeholder.com/400x600)
-[Image 3: Tablet View](https://via.placeholder.com/600x800)
+<img width="1894" height="905" alt="Screenshot 2025-11-22 134535" src="https://github.com/user-attachments/assets/08d27116-815f-4f13-9b81-37590b5aa526" />
+
 
 📦 API Reference
 ==================
