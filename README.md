@@ -1,4 +1,4 @@
-<img width="1894" height="905" alt="Screenshot 2025-11-22 134535" src="https://github.com/user-attachments/assets/6b6ecc5a-65ef-40d4-b04b-6fe33f6d9da3" />🚀 Amazon Clone
+🚀 Amazon Clone
 ==========================
 ### **Static Masterpiece** 🌐
 #### "Empowering Your Online Presence with Simplicity and Elegance" 💻
